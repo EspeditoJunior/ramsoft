@@ -18,3 +18,4 @@ The front end project, written using react, showcases different ypes of react to
 # Other topics
 
 I have used Xunit and npm instead of yarn and NUnit, as i am more used to these tools.
+There are other improvements that could be made to this project, that we can discuss in the next interview, especially related to styling and user interface.
